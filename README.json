@@ -33,7 +33,7 @@
             "last_commit": "2024-08-02T01:18:28Z",
             "owner": "RUB-NDS",
             "repo": "PRET",
-            "stars": 4296
+            "stars": 4294
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-14T14:37:11Z",
             "owner": "emsec",
             "repo": "hal",
-            "stars": 816
+            "stars": 817
           }
         },
         {
@@ -106,10 +106,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T19:02:10Z",
+            "last_commit": "2026-08-15T16:14:24Z",
             "owner": "radareorg",
             "repo": "radare2",
-            "stars": 24568
+            "stars": 24573
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-11T15:27:34Z",
             "owner": "ReFirmLabs",
             "repo": "binwalk",
-            "stars": 14228
+            "stars": 14231
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-07T11:05:35Z",
             "owner": "flashrom",
             "repo": "flashrom",
-            "stars": 1159
+            "stars": 1163
           }
         },
         {
@@ -337,7 +337,7 @@
             "last_commit": "2019-05-29T17:51:57Z",
             "owner": "unprovable",
             "repo": "PentestHardware",
-            "stars": 506
+            "stars": 507
           }
         }
       ],
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:04:52.590Z",
+    "last_updated": "2026-08-15T18:40:10.008Z",
     "original_repository": "fkie-cad/awesome-embedded-and-iot-security",
     "original_repository_sha": "fbd0301e6690a21d98ca8d565c0657aae0fba339",
     "enhanced_repository": "enhansome/enhansome-embedded-and-iot-security",

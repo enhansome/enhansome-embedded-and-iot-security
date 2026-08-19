@@ -2,315 +2,340 @@
   "items": [
     {
       "description": "Software tools for analyzing embedded/IoT devices and firmware.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Routersploit",
+              "description": "Framework dedicated to exploit embedded devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55058317,
+                "language": "Python",
+                "last_commit": "2026-05-05T14:02:26Z",
+                "owner": "threat9",
+                "repo": "routersploit",
+                "stars": 13215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PRET",
+              "description": "Printer Exploitation Toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61873736,
+                "language": "Python",
+                "last_commit": "2024-08-02T01:18:28Z",
+                "owner": "RUB-NDS",
+                "repo": "PRET",
+                "stars": 4295
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HomePWN",
+              "description": "Swiss Army Knife for Pentesting of IoT Devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201017254,
+                "language": "Python",
+                "last_commit": "2022-12-27T15:37:06Z",
+                "owner": "Telefonica",
+                "repo": "HomePWN",
+                "stars": 931
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Killerbee",
+              "description": "Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32794055,
+                "language": "C",
+                "last_commit": "2023-09-12T09:39:25Z",
+                "owner": "riverloopsec",
+                "repo": "killerbee",
+                "stars": 846
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HAL – The Hardware Analyzer",
+              "description": "A comprehensive reverse engineering and manipulation framework for gate-level netlists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169076171,
+                "language": "C++",
+                "last_commit": "2026-08-19T08:12:40Z",
+                "owner": "emsec",
+                "repo": "hal",
+                "stars": 820
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FwAnalyzer",
+              "description": "Analyze security of firmware based on customized rules. Intended as additional step in DevSecOps, similar to CI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198691310,
+                "language": "Go",
+                "last_commit": "2023-10-08T15:26:40Z",
+                "owner": "cruise-automation",
+                "repo": "fwanalyzer",
+                "stars": 517
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Analysis Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Radare2",
+              "description": "Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4869294,
+                "language": "C",
+                "last_commit": "2026-08-19T11:03:59Z",
+                "owner": "radareorg",
+                "repo": "radare2",
+                "stars": 24597
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Binwalk",
+              "description": "Searches a binary for \"interesting\" stuff, as well as extracts arbitrary files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14434734,
+                "language": "Rust",
+                "last_commit": "2026-08-11T15:27:34Z",
+                "owner": "ReFirmLabs",
+                "repo": "binwalk",
+                "stars": 14241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emba",
+              "description": "Analyze Linux-based firmware of embedded devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290152313,
+                "language": "Shell",
+                "last_commit": "2026-08-18T19:37:49Z",
+                "owner": "e-m-b-a",
+                "repo": "emba",
+                "stars": 3598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Firmadyne",
+              "description": "Tries to emulate and pentest a firmware.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51781408,
+                "language": "Shell",
+                "last_commit": "2024-07-21T00:21:54Z",
+                "owner": "firmadyne",
+                "repo": "firmadyne",
+                "stars": 2100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cwe_checker",
+              "description": "Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152072866,
+                "language": "Rust",
+                "last_commit": "2026-08-18T10:59:28Z",
+                "owner": "fkie-cad",
+                "repo": "cwe_checker",
+                "stars": 1349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Firmwalker",
+              "description": "Searches extracted firmware images for interesting files and information.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50965326,
+                "language": "Shell",
+                "last_commit": "2023-08-29T18:20:21Z",
+                "owner": "craigz28",
+                "repo": "firmwalker",
+                "stars": 1222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Firmware Slap",
+              "description": "Discovering vulnerabilities in firmware through concolic analysis and function clustering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193618712,
+                "language": "Python",
+                "last_commit": "2020-09-17T19:07:12Z",
+                "owner": "ChrisTheCoolHut",
+                "repo": "Firmware_Slap",
+                "stars": 476
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trommel",
+              "description": "Searches extracted firmware images for interesting files and information.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 107543105,
+                "language": "Python",
+                "last_commit": "2020-06-23T20:03:41Z",
+                "owner": "CERTCC",
+                "repo": "trommel",
+                "stars": 213
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Analysis Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Firmware Mod Kit",
+              "description": "Extraction tools for several container formats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36507356,
+                "language": "C",
+                "last_commit": "2026-02-17T15:27:22Z",
+                "owner": "rampageX",
+                "repo": "firmware-mod-kit",
+                "stars": 998
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FACT Extractor",
+              "description": "Detects container format automatically and executes the corresponding extraction tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170100702,
+                "language": "Python",
+                "last_commit": "2026-07-31T14:43:13Z",
+                "owner": "fkie-cad",
+                "repo": "fact_extractor",
+                "stars": 90
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Extraction Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "flashrom",
+              "description": "Tool for detecting, reading, writing, verifying and erasing flash chips.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1474948,
+                "language": "C",
+                "last_commit": "2026-08-17T16:05:36Z",
+                "owner": "flashrom",
+                "repo": "flashrom",
+                "stars": 1166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cotopaxi",
+              "description": "Set of tools for security testing of Internet of Things devices using specific network IoT protocols.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168120604,
+                "language": "Python",
+                "last_commit": "2024-05-31T16:31:01Z",
+                "owner": "Samsung",
+                "repo": "cotopaxi",
+                "stars": 362
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dumpflash",
+              "description": "Low-level NAND Flash dump and parsing utility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19590781,
+                "language": "Python",
+                "last_commit": "2022-03-17T17:39:50Z",
+                "owner": "ohjeongwook",
+                "repo": "dumpflash",
+                "stars": 321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Samsung Firmware Magic",
+              "description": "Decrypt Samsung SSD firmware updates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254223883,
+                "language": "Python",
+                "last_commit": "2021-04-11T13:08:57Z",
+                "owner": "chrivers",
+                "repo": "samsung-firmware-magic",
+                "stars": 237
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc Tools"
+        }
+      ],
       "title": "Software Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Routersploit",
-          "description": "Framework dedicated to exploit embedded devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-05T14:02:26Z",
-            "owner": "threat9",
-            "repo": "routersploit",
-            "stars": 13215
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PRET",
-          "description": "Printer Exploitation Toolkit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-02T01:18:28Z",
-            "owner": "RUB-NDS",
-            "repo": "PRET",
-            "stars": 4295
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HomePWN",
-          "description": "Swiss Army Knife for Pentesting of IoT Devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-27T15:37:06Z",
-            "owner": "Telefonica",
-            "repo": "HomePWN",
-            "stars": 931
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Killerbee",
-          "description": "Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-09-12T09:39:25Z",
-            "owner": "riverloopsec",
-            "repo": "killerbee",
-            "stars": 845
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HAL – The Hardware Analyzer",
-          "description": "A comprehensive reverse engineering and manipulation framework for gate-level netlists.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T15:24:24Z",
-            "owner": "emsec",
-            "repo": "hal",
-            "stars": 820
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FwAnalyzer",
-          "description": "Analyze security of firmware based on customized rules. Intended as additional step in DevSecOps, similar to CI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-10-08T15:26:40Z",
-            "owner": "cruise-automation",
-            "repo": "fwanalyzer",
-            "stars": 517
-          }
-        }
-      ],
-      "title": "Analysis Frameworks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Radare2",
-          "description": "Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T16:22:30Z",
-            "owner": "radareorg",
-            "repo": "radare2",
-            "stars": 24592
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Binwalk",
-          "description": "Searches a binary for \"interesting\" stuff, as well as extracts arbitrary files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T15:27:34Z",
-            "owner": "ReFirmLabs",
-            "repo": "binwalk",
-            "stars": 14235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "emba",
-          "description": "Analyze Linux-based firmware of embedded devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-17T02:23:11Z",
-            "owner": "e-m-b-a",
-            "repo": "emba",
-            "stars": 3596
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Firmadyne",
-          "description": "Tries to emulate and pentest a firmware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-07-21T00:21:54Z",
-            "owner": "firmadyne",
-            "repo": "firmadyne",
-            "stars": 2098
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cwe_checker",
-          "description": "Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T10:59:28Z",
-            "owner": "fkie-cad",
-            "repo": "cwe_checker",
-            "stars": 1349
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Firmwalker",
-          "description": "Searches extracted firmware images for interesting files and information.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-08-29T18:20:21Z",
-            "owner": "craigz28",
-            "repo": "firmwalker",
-            "stars": 1221
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Firmware Slap",
-          "description": "Discovering vulnerabilities in firmware through concolic analysis and function clustering.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-09-17T19:07:12Z",
-            "owner": "ChrisTheCoolHut",
-            "repo": "Firmware_Slap",
-            "stars": 476
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Trommel",
-          "description": "Searches extracted firmware images for interesting files and information.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2020-06-23T20:03:41Z",
-            "owner": "CERTCC",
-            "repo": "trommel",
-            "stars": 213
-          }
-        }
-      ],
-      "title": "Analysis Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Firmware Mod Kit",
-          "description": "Extraction tools for several container formats.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-17T15:27:22Z",
-            "owner": "rampageX",
-            "repo": "firmware-mod-kit",
-            "stars": 998
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FACT Extractor",
-          "description": "Detects container format automatically and executes the corresponding extraction tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-31T14:43:13Z",
-            "owner": "fkie-cad",
-            "repo": "fact_extractor",
-            "stars": 90
-          }
-        }
-      ],
-      "title": "Extraction Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "flashrom",
-          "description": "Tool for detecting, reading, writing, verifying and erasing flash chips.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T16:05:36Z",
-            "owner": "flashrom",
-            "repo": "flashrom",
-            "stars": 1165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cotopaxi",
-          "description": "Set of tools for security testing of Internet of Things devices using specific network IoT protocols.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-31T16:31:01Z",
-            "owner": "Samsung",
-            "repo": "cotopaxi",
-            "stars": 362
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dumpflash",
-          "description": "Low-level NAND Flash dump and parsing utility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-17T17:39:50Z",
-            "owner": "ohjeongwook",
-            "repo": "dumpflash",
-            "stars": 321
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Samsung Firmware Magic",
-          "description": "Decrypt Samsung SSD firmware updates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-04-11T13:08:57Z",
-            "owner": "chrivers",
-            "repo": "samsung-firmware-magic",
-            "stars": 237
-          }
-        }
-      ],
-      "title": "Misc Tools"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -319,6 +344,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186584593,
             "language": null,
             "last_commit": "2020-09-07T19:55:18Z",
             "owner": "yadox666",
@@ -333,6 +359,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152885862,
             "language": null,
             "last_commit": "2019-05-29T17:51:57Z",
             "owner": "unprovable",
@@ -344,7 +371,7 @@
       "title": "Books"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -353,6 +380,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169114504,
             "language": "C",
             "last_commit": "2020-03-29T23:18:00Z",
             "owner": "scriptingxss",
@@ -367,6 +395,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177657218,
             "language": "Python",
             "last_commit": "2019-03-28T06:55:42Z",
             "owner": "rdomanski",
@@ -381,6 +410,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174781228,
             "language": "Python",
             "last_commit": "2019-11-24T16:09:29Z",
             "owner": "TrustworthyComputing",
@@ -395,6 +425,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 849049196,
             "language": null,
             "last_commit": "2024-08-28T22:11:50Z",
             "owner": "Riscure",
@@ -409,6 +440,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 846595282,
             "language": null,
             "last_commit": "2024-08-25T18:46:17Z",
             "owner": "Riscure",
@@ -423,6 +455,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 849052048,
             "language": null,
             "last_commit": "2024-08-28T22:21:07Z",
             "owner": "Riscure",
@@ -432,21 +465,12 @@
         }
       ],
       "title": "Free Training"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Fraunhofer FKIE has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:50:16.208Z",
+    "last_updated": "2026-08-19T12:27:30.332Z",
     "original_repository": "fkie-cad/awesome-embedded-and-iot-security",
+    "original_repository_id": 198968285,
     "original_repository_sha": "fbd0301e6690a21d98ca8d565c0657aae0fba339",
     "enhanced_repository": "enhansome/enhansome-embedded-and-iot-security",
     "enhanced_repository_description": null,

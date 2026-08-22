@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-05T14:02:26Z",
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13216
+                "stars": 13218
               }
             },
             {
@@ -111,10 +111,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-21T17:41:58Z",
+                "last_commit": "2026-08-22T11:21:08Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24613
+                "stars": 24620
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14251
+                "stars": 14254
               }
             },
             {
@@ -141,10 +141,10 @@
                 "archived": false,
                 "id": 290152313,
                 "language": "Shell",
-                "last_commit": "2026-08-18T19:37:49Z",
+                "last_commit": "2026-08-22T16:59:57Z",
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3599
+                "stars": 3601
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-17T16:05:36Z",
                 "owner": "flashrom",
                 "repo": "flashrom",
-                "stars": 1166
+                "stars": 1167
               }
             },
             {
@@ -468,7 +468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:49:20.743Z",
+    "last_updated": "2026-08-22T18:40:52.018Z",
     "original_repository": "fkie-cad/awesome-embedded-and-iot-security",
     "original_repository_id": 198968285,
     "original_repository_sha": "fbd0301e6690a21d98ca8d565c0657aae0fba339",

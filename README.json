@@ -62,7 +62,7 @@
                 "last_commit": "2023-09-12T09:39:25Z",
                 "owner": "riverloopsec",
                 "repo": "killerbee",
-                "stars": 847
+                "stars": 848
               }
             },
             {
@@ -74,10 +74,10 @@
                 "archived": false,
                 "id": 169076171,
                 "language": "C++",
-                "last_commit": "2026-08-21T15:28:50Z",
+                "last_commit": "2026-08-23T14:43:05Z",
                 "owner": "emsec",
                 "repo": "hal",
-                "stars": 820
+                "stars": 821
               }
             },
             {
@@ -111,10 +111,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-22T11:21:08Z",
+                "last_commit": "2026-08-23T14:54:17Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24620
+                "stars": 24627
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14254
+                "stars": 14258
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-22T16:59:57Z",
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3601
+                "stars": 3605
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2024-07-21T00:21:54Z",
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2099
+                "stars": 2100
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-20T09:29:19Z",
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
-                "stars": 1349
+                "stars": 1351
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-17T16:05:36Z",
                 "owner": "flashrom",
                 "repo": "flashrom",
-                "stars": 1167
+                "stars": 1166
               }
             },
             {
@@ -349,7 +349,7 @@
             "last_commit": "2020-09-07T19:55:18Z",
             "owner": "yadox666",
             "repo": "The-Hackers-Hardware-Toolkit",
-            "stars": 2175
+            "stars": 2176
           }
         },
         {
@@ -468,7 +468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:40:52.018Z",
+    "last_updated": "2026-08-23T18:40:39.648Z",
     "original_repository": "fkie-cad/awesome-embedded-and-iot-security",
     "original_repository_id": 198968285,
     "original_repository_sha": "fbd0301e6690a21d98ca8d565c0657aae0fba339",

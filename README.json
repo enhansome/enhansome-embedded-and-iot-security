@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 169076171,
                 "language": "C++",
-                "last_commit": "2026-08-23T14:43:05Z",
+                "last_commit": "2026-08-24T07:42:26Z",
                 "owner": "emsec",
                 "repo": "hal",
                 "stars": 821
@@ -111,10 +111,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-23T14:54:17Z",
+                "last_commit": "2026-08-24T13:18:49Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24627
+                "stars": 24632
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14258
+                "stars": 14264
               }
             },
             {
@@ -141,10 +141,10 @@
                 "archived": false,
                 "id": 290152313,
                 "language": "Shell",
-                "last_commit": "2026-08-22T16:59:57Z",
+                "last_commit": "2026-08-24T02:55:03Z",
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3605
+                "stars": 3607
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2024-07-21T00:21:54Z",
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2100
+                "stars": 2102
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2023-08-29T18:20:21Z",
                 "owner": "craigz28",
                 "repo": "firmwalker",
-                "stars": 1222
+                "stars": 1223
               }
             },
             {
@@ -241,7 +241,7 @@
                 "last_commit": "2026-02-17T15:27:22Z",
                 "owner": "rampageX",
                 "repo": "firmware-mod-kit",
-                "stars": 999
+                "stars": 1000
               }
             },
             {
@@ -268,6 +268,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "JTAGenum",
+              "description": "Add JTAG capabilities to an Arduino.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612594,
+                "language": "C++",
+                "last_commit": "2023-10-30T08:40:07Z",
+                "owner": "cyphunk",
+                "repo": "JTAGenum",
+                "stars": 799
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Support Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "flashrom",
               "description": "Tool for detecting, reading, writing, verifying and erasing flash chips.",
               "children": [],
@@ -278,7 +300,7 @@
                 "last_commit": "2026-08-17T16:05:36Z",
                 "owner": "flashrom",
                 "repo": "flashrom",
-                "stars": 1166
+                "stars": 1168
               }
             },
             {
@@ -385,7 +407,7 @@
             "last_commit": "2020-03-29T23:18:00Z",
             "owner": "scriptingxss",
             "repo": "IoTGoat",
-            "stars": 182
+            "stars": 183
           }
         },
         {
@@ -468,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:40:39.648Z",
+    "last_updated": "2026-08-24T14:02:24.765Z",
     "original_repository": "fkie-cad/awesome-embedded-and-iot-security",
     "original_repository_id": 198968285,
     "original_repository_sha": "fbd0301e6690a21d98ca8d565c0657aae0fba339",

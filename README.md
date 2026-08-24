@@ -48,7 +48,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 ### Analysis Frameworks
 
 * [Routersploit](https://github.com/threat9/routersploit) ⭐ 13,218 | 🐛 97 | 🌐 Python | 📅 2026-05-05 - Framework dedicated to exploit embedded devices.
-* [PRET](https://github.com/RUB-NDS/PRET) ⭐ 4,298 | 🐛 73 | 🌐 Python | 📅 2024-08-02 - Printer Exploitation Toolkit.
+* [PRET](https://github.com/RUB-NDS/PRET) ⭐ 4,299 | 🐛 73 | 🌐 Python | 📅 2024-08-02 - Printer Exploitation Toolkit.
 * [HomePWN](https://github.com/ElevenPaths/HomePWN) ⭐ 931 | 🐛 5 | 🌐 Python | 📅 2022-12-27 - Swiss Army Knife for Pentesting of IoT Devices.
 * [Killerbee](https://github.com/riverloopsec/killerbee) ⭐ 848 | 🐛 31 | 🌐 C | 📅 2023-09-12 - Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.
 * [HAL – The Hardware Analyzer](https://github.com/emsec/hal) ⭐ 821 | 🐛 20 | 🌐 C++ | 📅 2026-08-24 - A comprehensive reverse engineering and manipulation framework for gate-level netlists.
@@ -60,9 +60,9 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### Analysis Tools
 
-* [Radare2](https://github.com/radare/radare2) ⭐ 24,632 | 🐛 819 | 🌐 C | 📅 2026-08-24 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
-* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,264 | 🐛 92 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,607 | 🐛 32 | 🌐 Shell | 📅 2026-08-24 - Analyze Linux-based firmware of embedded devices.
+* [Radare2](https://github.com/radare/radare2) ⭐ 24,634 | 🐛 819 | 🌐 C | 📅 2026-08-24 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
+* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,265 | 🐛 92 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,608 | 🐛 27 | 🌐 Shell | 📅 2026-08-24 - Analyze Linux-based firmware of embedded devices.
 * [Firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,102 | 🐛 107 | 🌐 Shell | 📅 2024-07-21 - Tries to emulate and pentest a firmware.
 * [cwe\_checker](https://github.com/fkie-cad/cwe_checker) ⭐ 1,351 | 🐛 29 | 🌐 Rust | 📅 2026-08-20 - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
 * [Firmwalker](https://github.com/craigz28/firmwalker) ⭐ 1,223 | 🐛 5 | 🌐 Shell | 📅 2023-08-29 - Searches extracted firmware images for interesting files and information.
@@ -83,7 +83,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### Misc Tools
 
-* [flashrom](https://github.com/flashrom/flashrom) ⭐ 1,168 | 🐛 80 | 🌐 C | 📅 2026-08-17 - Tool for detecting, reading, writing, verifying and erasing flash chips.
+* [flashrom](https://github.com/flashrom/flashrom) ⭐ 1,169 | 🐛 80 | 🌐 C | 📅 2026-08-17 - Tool for detecting, reading, writing, verifying and erasing flash chips.
 * [Cotopaxi](https://github.com/Samsung/cotopaxi) ⭐ 362 | 🐛 1 | 🌐 Python | 📅 2024-05-31 - Set of tools for security testing of Internet of Things devices using specific network IoT protocols.
 * [dumpflash](https://github.com/ohjeongwook/dumpflash) ⭐ 321 | 🐛 21 | 🌐 Python | 📅 2022-03-17 - Low-level NAND Flash dump and parsing utility.
 * [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic) ⭐ 237 | 🐛 8 | 🌐 Python | 📅 2021-04-11 - Decrypt Samsung SSD firmware updates.
@@ -98,7 +98,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 * [Ikalogic](https://www.ikalogic.com/pages/logic-analyzer-sp-series-sp209) - Alternative to Saleae logic analyzers :euro:.
 * [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) - Open source multi-tool hardware similar to the BusPirate but with NFC capabilities.
 * [ChipWhisperer](https://newae.com/chipwhisperer/) - Detects Glitch/Side-channel attacks.
-* [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) ⭐ 2,201 | 🐛 80 | 🌐 Python | 📅 2026-08-23 - Tool for exploring and debugging different digital interfaces.
+* [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) ⭐ 2,201 | 🐛 79 | 🌐 Python | 📅 2026-08-24 - Tool for exploring and debugging different digital interfaces.
 * [J-Link](https://www.segger.com/products/debug-probes/j-link/models/model-overview/) - J-Link offers USB powered JTAG debug probes for multiple different CPU cores :euro:.
 
 ### Bluetooth BLE Tools

@@ -32,7 +32,7 @@
                 "last_commit": "2024-08-02T01:18:28Z",
                 "owner": "RUB-NDS",
                 "repo": "PRET",
-                "stars": 4298
+                "stars": 4299
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-24T13:18:49Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24632
+                "stars": 24634
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14264
+                "stars": 14265
               }
             },
             {
@@ -141,10 +141,10 @@
                 "archived": false,
                 "id": 290152313,
                 "language": "Shell",
-                "last_commit": "2026-08-24T02:55:03Z",
+                "last_commit": "2026-08-24T15:28:46Z",
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3607
+                "stars": 3608
               }
             },
             {
@@ -300,7 +300,7 @@
                 "last_commit": "2026-08-17T16:05:36Z",
                 "owner": "flashrom",
                 "repo": "flashrom",
-                "stars": 1168
+                "stars": 1169
               }
             },
             {
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:02:24.765Z",
+    "last_updated": "2026-08-24T18:52:08.604Z",
     "original_repository": "fkie-cad/awesome-embedded-and-iot-security",
     "original_repository_id": 198968285,
     "original_repository_sha": "fbd0301e6690a21d98ca8d565c0657aae0fba339",

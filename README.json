@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-05T14:02:26Z",
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13218
+                "stars": 13219
               }
             },
             {
@@ -111,10 +111,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-24T13:18:49Z",
+                "last_commit": "2026-08-25T03:54:47Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24634
+                "stars": 24638
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-24T15:28:46Z",
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3608
+                "stars": 3609
               }
             },
             {
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:52:08.604Z",
+    "last_updated": "2026-08-25T05:55:42.159Z",
     "original_repository": "fkie-cad/awesome-embedded-and-iot-security",
     "original_repository_id": 198968285,
     "original_repository_sha": "fbd0301e6690a21d98ca8d565c0657aae0fba339",

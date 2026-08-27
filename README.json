@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 169076171,
                 "language": "C++",
-                "last_commit": "2026-08-25T14:47:16Z",
+                "last_commit": "2026-08-27T11:20:58Z",
                 "owner": "emsec",
                 "repo": "hal",
                 "stars": 821
@@ -111,10 +111,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-26T17:33:56Z",
+                "last_commit": "2026-08-27T08:56:54Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24651
+                "stars": 24658
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14275
+                "stars": 14277
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-25T10:28:35Z",
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3614
+                "stars": 3615
               }
             },
             {
@@ -490,9 +490,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:55:56.901Z",
-    "original_repository": "fkie-cad/awesome-embedded-and-iot-security",
-    "original_repository_id": 198968285,
+    "last_updated": "2026-08-27T11:37:33.409Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 198968285,
+      "language": null,
+      "last_commit": "2023-10-17T12:23:20Z",
+      "owner": "fkie-cad",
+      "repo": "awesome-embedded-and-iot-security",
+      "stars": 2430
+    },
     "original_repository_sha": "fbd0301e6690a21d98ca8d565c0657aae0fba339",
     "enhanced_repository": "enhansome/enhansome-embedded-and-iot-security",
     "enhanced_repository_description": null,

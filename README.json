@@ -17,8 +17,9 @@
                 "last_commit": "2026-05-05T14:02:26Z",
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13222
-              }
+                "stars": 13224
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "RUB-NDS",
                 "repo": "PRET",
                 "stars": 4302
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2022-12-27T15:37:06Z",
                 "owner": "Telefonica",
                 "repo": "HomePWN",
-                "stars": 931
-              }
+                "stars": 930
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "riverloopsec",
                 "repo": "killerbee",
                 "stars": 849
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -74,11 +78,12 @@
                 "archived": false,
                 "id": 169076171,
                 "language": "C++",
-                "last_commit": "2026-08-27T21:34:39Z",
+                "last_commit": "2026-08-28T21:27:55Z",
                 "owner": "emsec",
                 "repo": "hal",
                 "stars": 821
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "cruise-automation",
                 "repo": "fwanalyzer",
                 "stars": 517
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             }
           ],
           "description": null,
@@ -111,11 +117,12 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-27T21:57:37Z",
+                "last_commit": "2026-08-29T01:30:06Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24662
-              }
+                "stars": 24672
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -129,8 +136,9 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14281
-              }
+                "stars": 14283
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -144,8 +152,9 @@
                 "last_commit": "2026-08-27T14:54:46Z",
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3616
-              }
+                "stars": 3617
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "firmadyne",
                 "repo": "firmadyne",
                 "stars": 2102
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
                 "stars": 1353
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "craigz28",
                 "repo": "firmwalker",
                 "stars": 1225
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "ChrisTheCoolHut",
                 "repo": "Firmware_Slap",
                 "stars": 476
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "CERTCC",
                 "repo": "trommel",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             }
           ],
           "description": null,
@@ -242,7 +256,8 @@
                 "owner": "rampageX",
                 "repo": "firmware-mod-kit",
                 "stars": 1000
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "fkie-cad",
                 "repo": "fact_extractor",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             }
           ],
           "description": null,
@@ -279,7 +295,8 @@
                 "owner": "cyphunk",
                 "repo": "JTAGenum",
                 "stars": 799
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             }
           ],
           "description": null,
@@ -297,11 +314,12 @@
                 "archived": false,
                 "id": 1474948,
                 "language": "C",
-                "last_commit": "2026-08-27T12:47:23Z",
+                "last_commit": "2026-08-28T21:27:23Z",
                 "owner": "flashrom",
                 "repo": "flashrom",
-                "stars": 1170
-              }
+                "stars": 1171
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "Samsung",
                 "repo": "cotopaxi",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "ohjeongwook",
                 "repo": "dumpflash",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "chrivers",
                 "repo": "samsung-firmware-magic",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
             }
           ],
           "description": null,
@@ -372,7 +393,8 @@
             "owner": "yadox666",
             "repo": "The-Hackers-Hardware-Toolkit",
             "stars": 2175
-          }
+          },
+          "first_seen": "2026-08-29T01:43:11.900Z"
         },
         {
           "node_type": "item",
@@ -387,7 +409,8 @@
             "owner": "unprovable",
             "repo": "PentestHardware",
             "stars": 506
-          }
+          },
+          "first_seen": "2026-08-29T01:43:11.900Z"
         }
       ],
       "title": "Books"
@@ -408,7 +431,8 @@
             "owner": "scriptingxss",
             "repo": "IoTGoat",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-29T01:43:11.900Z"
         },
         {
           "node_type": "item",
@@ -423,7 +447,8 @@
             "owner": "rdomanski",
             "repo": "hardware_hacking",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T01:43:11.900Z"
         },
         {
           "node_type": "item",
@@ -438,7 +463,8 @@
             "owner": "TrustworthyComputing",
             "repo": "csaw_esc_2019",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T01:43:11.900Z"
         },
         {
           "node_type": "item",
@@ -453,7 +479,8 @@
             "owner": "Riscure",
             "repo": "Rhme-2016",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:43:11.900Z"
         },
         {
           "node_type": "item",
@@ -468,7 +495,8 @@
             "owner": "Riscure",
             "repo": "RHme-2015",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:43:11.900Z"
         },
         {
           "node_type": "item",
@@ -483,14 +511,15 @@
             "owner": "Riscure",
             "repo": "Rhme-2017",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:43:11.900Z"
         }
       ],
       "title": "Free Training"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:08:06.551Z",
+    "last_updated": "2026-08-29T01:43:11.900Z",
     "original_repository_info": {
       "archived": false,
       "id": 198968285,

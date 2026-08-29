@@ -60,8 +60,8 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### Analysis Tools
 
-* [Radare2](https://github.com/radare/radare2) ⭐ 24,672 | 🐛 824 | 🌐 C | 📅 2026-08-29 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
-* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,283 | 🐛 93 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
+* [Radare2](https://github.com/radare/radare2) ⭐ 24,674 | 🐛 824 | 🌐 C | 📅 2026-08-29 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
+* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,284 | 🐛 93 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
 * [emba](https://github.com/e-m-b-a/emba) ⭐ 3,617 | 🐛 25 | 🌐 Shell | 📅 2026-08-27 - Analyze Linux-based firmware of embedded devices.
 * [Firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,102 | 🐛 107 | 🌐 Shell | 📅 2024-07-21 - Tries to emulate and pentest a firmware.
 * [cwe\_checker](https://github.com/fkie-cad/cwe_checker) ⭐ 1,353 | 🐛 29 | 🌐 Rust | 📅 2026-08-20 - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.

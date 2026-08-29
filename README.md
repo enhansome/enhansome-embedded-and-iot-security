@@ -47,10 +47,10 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### Analysis Frameworks
 
-* [Routersploit](https://github.com/threat9/routersploit) ⭐ 13,224 | 🐛 97 | 🌐 Python | 📅 2026-05-05 - Framework dedicated to exploit embedded devices.
-* [PRET](https://github.com/RUB-NDS/PRET) ⭐ 4,302 | 🐛 73 | 🌐 Python | 📅 2024-08-02 - Printer Exploitation Toolkit.
+* [Routersploit](https://github.com/threat9/routersploit) ⭐ 13,225 | 🐛 97 | 🌐 Python | 📅 2026-05-05 - Framework dedicated to exploit embedded devices.
+* [PRET](https://github.com/RUB-NDS/PRET) ⭐ 4,303 | 🐛 73 | 🌐 Python | 📅 2024-08-02 - Printer Exploitation Toolkit.
 * [HomePWN](https://github.com/ElevenPaths/HomePWN) ⭐ 930 | 🐛 5 | 🌐 Python | 📅 2022-12-27 - Swiss Army Knife for Pentesting of IoT Devices.
-* [Killerbee](https://github.com/riverloopsec/killerbee) ⭐ 849 | 🐛 31 | 🌐 C | 📅 2023-09-12 - Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.
+* [Killerbee](https://github.com/riverloopsec/killerbee) ⭐ 848 | 🐛 31 | 🌐 C | 📅 2023-09-12 - Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.
 * [HAL – The Hardware Analyzer](https://github.com/emsec/hal) ⭐ 821 | 🐛 19 | 🌐 C++ | 📅 2026-08-28 - A comprehensive reverse engineering and manipulation framework for gate-level netlists.
 * [FwAnalyzer](https://github.com/cruise-automation/fwanalyzer) ⭐ 517 | 🐛 3 | 🌐 Go | 📅 2023-10-08 - Analyze security of firmware based on customized rules. Intended as additional step in DevSecOps, similar to CI.
 * [EXPLIoT](https://gitlab.com/expliot_framework/expliot) - Pentest framework like Metasploit but specialized for IoT.
@@ -60,10 +60,10 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### Analysis Tools
 
-* [Radare2](https://github.com/radare/radare2) ⭐ 24,674 | 🐛 824 | 🌐 C | 📅 2026-08-29 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
-* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,284 | 🐛 93 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,617 | 🐛 25 | 🌐 Shell | 📅 2026-08-27 - Analyze Linux-based firmware of embedded devices.
-* [Firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,102 | 🐛 107 | 🌐 Shell | 📅 2024-07-21 - Tries to emulate and pentest a firmware.
+* [Radare2](https://github.com/radare/radare2) ⭐ 24,674 | 🐛 826 | 🌐 C | 📅 2026-08-29 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
+* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,289 | 🐛 93 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,618 | 🐛 25 | 🌐 Shell | 📅 2026-08-27 - Analyze Linux-based firmware of embedded devices.
+* [Firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,103 | 🐛 107 | 🌐 Shell | 📅 2024-07-21 - Tries to emulate and pentest a firmware.
 * [cwe\_checker](https://github.com/fkie-cad/cwe_checker) ⭐ 1,353 | 🐛 29 | 🌐 Rust | 📅 2026-08-20 - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
 * [Firmwalker](https://github.com/craigz28/firmwalker) ⭐ 1,225 | 🐛 5 | 🌐 Shell | 📅 2023-08-29 - Searches extracted firmware images for interesting files and information.
 * [Firmware Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) ⭐ 476 | 🐛 9 | 🌐 Python | 📅 2020-09-17 - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
@@ -83,7 +83,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### Misc Tools
 
-* [flashrom](https://github.com/flashrom/flashrom) ⭐ 1,171 | 🐛 80 | 🌐 C | 📅 2026-08-28 - Tool for detecting, reading, writing, verifying and erasing flash chips.
+* [flashrom](https://github.com/flashrom/flashrom) ⭐ 1,170 | 🐛 80 | 🌐 C | 📅 2026-08-28 - Tool for detecting, reading, writing, verifying and erasing flash chips.
 * [Cotopaxi](https://github.com/Samsung/cotopaxi) ⭐ 362 | 🐛 1 | 🌐 Python | 📅 2024-05-31 - Set of tools for security testing of Internet of Things devices using specific network IoT protocols.
 * [dumpflash](https://github.com/ohjeongwook/dumpflash) ⭐ 321 | 🐛 21 | 🌐 Python | 📅 2022-03-17 - Low-level NAND Flash dump and parsing utility.
 * [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic) ⭐ 237 | 🐛 8 | 🌐 Python | 📅 2021-04-11 - Decrypt Samsung SSD firmware updates.

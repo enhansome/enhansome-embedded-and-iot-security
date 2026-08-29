@@ -21,7 +21,7 @@
                 "open_issues": 97,
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13224,
+                "stars": 13225,
                 "topics": [
                   "bruteforce",
                   "creds",
@@ -56,7 +56,7 @@
                 "open_issues": 73,
                 "owner": "RUB-NDS",
                 "repo": "PRET",
-                "stars": 4302,
+                "stars": 4303,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -104,7 +104,7 @@
                 "open_issues": 31,
                 "owner": "riverloopsec",
                 "repo": "killerbee",
-                "stars": 849,
+                "stars": 848,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -191,8 +191,8 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T01:30:06Z",
-                "open_issues": 824,
+                "last_commit": "2026-08-29T18:45:47Z",
+                "open_issues": 826,
                 "owner": "radareorg",
                 "repo": "radare2",
                 "stars": 24674,
@@ -227,7 +227,7 @@
                 "open_issues": 93,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14284,
+                "stars": 14289,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -248,7 +248,7 @@
                 "open_issues": 25,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3617,
+                "stars": 3618,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -290,7 +290,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2102,
+                "stars": 2103,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -499,7 +499,7 @@
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
-                "stars": 1171,
+                "stars": 1170,
                 "topics": [
                   "firmware-tools",
                   "firmware-update",
@@ -768,7 +768,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:26:23.303Z",
+    "last_updated": "2026-08-29T20:51:02.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",

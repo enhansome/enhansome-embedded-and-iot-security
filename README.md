@@ -47,11 +47,11 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### Analysis Frameworks
 
-* [Routersploit](https://github.com/threat9/routersploit) ⭐ 13,234 | 🐛 97 | 🌐 Python | 📅 2026-05-05 - Framework dedicated to exploit embedded devices.
+* [Routersploit](https://github.com/threat9/routersploit) ⭐ 13,233 | 🐛 97 | 🌐 Python | 📅 2026-05-05 - Framework dedicated to exploit embedded devices.
 * [PRET](https://github.com/RUB-NDS/PRET) ⭐ 4,303 | 🐛 73 | 🌐 Python | 📅 2024-08-02 - Printer Exploitation Toolkit.
 * [HomePWN](https://github.com/ElevenPaths/HomePWN) ⭐ 930 | 🐛 5 | 🌐 Python | 📅 2022-12-27 - Swiss Army Knife for Pentesting of IoT Devices.
 * [Killerbee](https://github.com/riverloopsec/killerbee) ⭐ 848 | 🐛 31 | 🌐 C | 📅 2023-09-12 - Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.
-* [HAL – The Hardware Analyzer](https://github.com/emsec/hal) ⭐ 822 | 🐛 19 | 🌐 C++ | 📅 2026-08-28 - A comprehensive reverse engineering and manipulation framework for gate-level netlists.
+* [HAL – The Hardware Analyzer](https://github.com/emsec/hal) ⭐ 822 | 🐛 20 | 🌐 C++ | 📅 2026-09-01 - A comprehensive reverse engineering and manipulation framework for gate-level netlists.
 * [FwAnalyzer](https://github.com/cruise-automation/fwanalyzer) ⭐ 517 | 🐛 3 | 🌐 Go | 📅 2023-10-08 - Analyze security of firmware based on customized rules. Intended as additional step in DevSecOps, similar to CI.
 * [EXPLIoT](https://gitlab.com/expliot_framework/expliot) - Pentest framework like Metasploit but specialized for IoT.
 * [FACT - The Firmware Analysis and Comparison Tool](https://fkie-cad.github.io/FACT_core/) - Full-featured static analysis framework including extraction of firmware, analysis utilizing different plug-ins and comparison of different firmware versions.
@@ -60,9 +60,9 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### Analysis Tools
 
-* [Radare2](https://github.com/radare/radare2) ⭐ 24,692 | 🐛 823 | 🌐 C | 📅 2026-08-31 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
-* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,296 | 🐛 93 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,619 | 🐛 19 | 🌐 Shell | 📅 2026-08-31 - Analyze Linux-based firmware of embedded devices.
+* [Radare2](https://github.com/radare/radare2) ⭐ 24,702 | 🐛 824 | 🌐 C | 📅 2026-09-01 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
+* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,298 | 🐛 93 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,625 | 🐛 20 | 🌐 Shell | 📅 2026-09-01 - Analyze Linux-based firmware of embedded devices.
 * [Firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,104 | 🐛 107 | 🌐 Shell | 📅 2024-07-21 - Tries to emulate and pentest a firmware.
 * [cwe\_checker](https://github.com/fkie-cad/cwe_checker) ⭐ 1,353 | 🐛 29 | 🌐 Rust | 📅 2026-08-20 - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
 * [Firmwalker](https://github.com/craigz28/firmwalker) ⭐ 1,225 | 🐛 5 | 🌐 Shell | 📅 2023-08-29 - Searches extracted firmware images for interesting files and information.
@@ -73,7 +73,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 ### Extraction Tools
 
 * [Firmware Mod Kit](https://github.com/rampageX/firmware-mod-kit/wiki) ⭐ 1,000 | 🐛 62 | 🌐 C | 📅 2026-02-17 - Extraction tools for several container formats.
-* [FACT Extractor](https://github.com/fkie-cad/fact_extractor) ⭐ 90 | 🐛 45 | 🌐 Python | 📅 2026-08-25 - Detects container format automatically and executes the corresponding extraction tool.
+* [FACT Extractor](https://github.com/fkie-cad/fact_extractor) ⭐ 90 | 🐛 46 | 🌐 Python | 📅 2026-09-01 - Detects container format automatically and executes the corresponding extraction tool.
 * [The SRecord package](http://srecord.sourceforge.net/) - Collection of tools for manipulating EPROM files (can convert lots of binary formats).
 
 ### Support Tools
@@ -98,7 +98,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 * [Ikalogic](https://www.ikalogic.com/pages/logic-analyzer-sp-series-sp209) - Alternative to Saleae logic analyzers :euro:.
 * [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) - Open source multi-tool hardware similar to the BusPirate but with NFC capabilities.
 * [ChipWhisperer](https://newae.com/chipwhisperer/) - Detects Glitch/Side-channel attacks.
-* [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) ⭐ 2,203 | 🐛 81 | 🌐 Python | 📅 2026-08-31 - Tool for exploring and debugging different digital interfaces.
+* [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) ⭐ 2,203 | 🐛 79 | 🌐 Python | 📅 2026-09-01 - Tool for exploring and debugging different digital interfaces.
 * [J-Link](https://www.segger.com/products/debug-probes/j-link/models/model-overview/) - J-Link offers USB powered JTAG debug probes for multiple different CPU cores :euro:.
 
 ### Bluetooth BLE Tools
@@ -256,4 +256,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

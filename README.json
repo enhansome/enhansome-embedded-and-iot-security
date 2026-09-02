@@ -21,7 +21,7 @@
                 "open_issues": 97,
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13233,
+                "stars": 13234,
                 "topics": [
                   "bruteforce",
                   "creds",
@@ -56,7 +56,7 @@
                 "open_issues": 73,
                 "owner": "RUB-NDS",
                 "repo": "PRET",
-                "stars": 4303,
+                "stars": 4304,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -77,7 +77,7 @@
                 "open_issues": 5,
                 "owner": "Telefonica",
                 "repo": "HomePWN",
-                "stars": 930,
+                "stars": 931,
                 "topics": [
                   "ble",
                   "hack",
@@ -125,7 +125,7 @@
                 "open_issues": 20,
                 "owner": "emsec",
                 "repo": "hal",
-                "stars": 822,
+                "stars": 824,
                 "topics": [
                   "embedded-security",
                   "fpga",
@@ -191,11 +191,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T14:46:42Z",
-                "open_issues": 824,
+                "last_commit": "2026-09-02T09:46:21Z",
+                "open_issues": 822,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24702,
+                "stars": 24716,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -227,7 +227,7 @@
                 "open_issues": 93,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14298,
+                "stars": 14301,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -244,11 +244,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-01T13:59:48Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-02T16:52:52Z",
+                "open_issues": 16,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3625,
+                "stars": 3635,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -290,7 +290,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2104,
+                "stars": 2105,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -324,27 +324,6 @@
                   "static-analyzer",
                   "vulnerability-scanner"
                 ]
-              },
-              "first_seen": "2026-08-29T01:43:11.900Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Firmwalker",
-              "description": "Searches extracted firmware images for interesting files and information.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Script for searching the extracted firmware file system for goodies!",
-                "homepage": null,
-                "id": 50965326,
-                "language": "Shell",
-                "license": "GPL-3.0",
-                "last_commit": "2023-08-29T18:20:21Z",
-                "open_issues": 5,
-                "owner": "craigz28",
-                "repo": "firmwalker",
-                "stars": 1225,
-                "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
             },
@@ -435,8 +414,8 @@
                 "id": 170100702,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-01T12:17:00Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-02T13:12:23Z",
+                "open_issues": 44,
                 "owner": "fkie-cad",
                 "repo": "fact_extractor",
                 "stars": 90,
@@ -495,7 +474,7 @@
                 "id": 1474948,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-31T06:37:24Z",
+                "last_commit": "2026-09-02T15:47:24Z",
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
@@ -768,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T20:57:10.773Z",
+    "last_updated": "2026-09-02T20:56:24.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",

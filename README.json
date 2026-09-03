@@ -21,7 +21,7 @@
                 "open_issues": 97,
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13234,
+                "stars": 13235,
                 "topics": [
                   "bruteforce",
                   "creds",
@@ -191,11 +191,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T09:46:21Z",
+                "last_commit": "2026-09-03T18:26:04Z",
                 "open_issues": 822,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24716,
+                "stars": 24725,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -227,7 +227,7 @@
                 "open_issues": 93,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14301,
+                "stars": 14306,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -245,10 +245,10 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-02T16:52:52Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3635,
+                "stars": 3639,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -474,7 +474,7 @@
                 "id": 1474948,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-02T15:47:24Z",
+                "last_commit": "2026-09-03T16:17:24Z",
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
@@ -584,7 +584,7 @@
             "open_issues": 5,
             "owner": "yadox666",
             "repo": "The-Hackers-Hardware-Toolkit",
-            "stars": 2176,
+            "stars": 2175,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:11.900Z"
@@ -632,7 +632,7 @@
             "open_issues": 1,
             "owner": "scriptingxss",
             "repo": "IoTGoat",
-            "stars": 183,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:11.900Z"
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T20:56:24.894Z",
+    "last_updated": "2026-09-03T20:54:50.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",

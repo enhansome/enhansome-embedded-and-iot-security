@@ -191,11 +191,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T21:13:01Z",
-                "open_issues": 821,
+                "last_commit": "2026-09-08T14:05:16Z",
+                "open_issues": 819,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24752,
+                "stars": 24762,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -227,7 +227,7 @@
                 "open_issues": 93,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14319,
+                "stars": 14320,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -248,7 +248,7 @@
                 "open_issues": 13,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3651,
+                "stars": 3653,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -311,7 +311,7 @@
                 "open_issues": 29,
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
-                "stars": 1354,
+                "stars": 1355,
                 "topics": [
                   "binary-analysis",
                   "cwe",
@@ -478,7 +478,7 @@
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
-                "stars": 1172,
+                "stars": 1171,
                 "topics": [
                   "firmware-tools",
                   "firmware-update",
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:26:21.561Z",
+    "last_updated": "2026-09-08T21:02:42.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",
@@ -759,7 +759,7 @@
       "open_issues": 2,
       "owner": "fkie-cad",
       "repo": "awesome-embedded-and-iot-security",
-      "stars": 2435,
+      "stars": 2439,
       "topics": [
         "awesome",
         "awesome-list",

@@ -21,7 +21,7 @@
                 "open_issues": 97,
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13241,
+                "stars": 13240,
                 "topics": [
                   "bruteforce",
                   "creds",
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-13T14:32:26Z",
-                "open_issues": 822,
+                "last_commit": "2026-09-14T07:09:40Z",
+                "open_issues": 824,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24792,
+                "stars": 24797,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 92,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14337,
+                "stars": 14340,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -245,11 +245,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T14:44:47Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-14T15:26:02Z",
+                "open_issues": 14,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3658,
+                "stars": 3661,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -291,7 +291,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2103,
+                "stars": 2104,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T20:40:21.751Z",
+    "last_updated": "2026-09-14T21:44:39.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",

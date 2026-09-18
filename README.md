@@ -60,11 +60,11 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### Analysis Tools
 
-* [Radare2](https://github.com/radare/radare2) ⭐ 24,821 | 🐛 822 | 🌐 C | 📅 2026-09-16 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
-* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,341 | 🐛 93 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,666 | 🐛 14 | 🌐 Shell | 📅 2026-09-17 - Analyze Linux-based firmware of embedded devices.
-* [Firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,105 | 🐛 107 | 🌐 Shell | 📅 2024-07-21 - Tries to emulate and pentest a firmware.
-* [cwe\_checker](https://github.com/fkie-cad/cwe_checker) ⭐ 1,356 | 🐛 29 | 🌐 Rust | 📅 2026-08-20 - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
+* [Radare2](https://github.com/radare/radare2) ⭐ 24,822 | 🐛 824 | 🌐 C | 📅 2026-09-18 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
+* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,348 | 🐛 94 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,666 | 🐛 13 | 🌐 Shell | 📅 2026-09-18 - Analyze Linux-based firmware of embedded devices.
+* [Firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,106 | 🐛 107 | 🌐 Shell | 📅 2024-07-21 - Tries to emulate and pentest a firmware.
+* [cwe\_checker](https://github.com/fkie-cad/cwe_checker) ⭐ 1,357 | 🐛 30 | 🌐 Rust | 📅 2026-08-20 - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
 * [Firmware Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) ⭐ 476 | 🐛 9 | 🌐 Python | 📅 2020-09-17 - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
 * [Trommel](https://github.com/CERTCC/trommel) ⚠️ Archived - Searches extracted firmware images for interesting files and information.
 * [Firmwalker](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
@@ -84,7 +84,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 ### Misc Tools
 
 * [flashrom](https://github.com/flashrom/flashrom) ⭐ 1,173 | 🐛 80 | 🌐 C | 📅 2026-09-16 - Tool for detecting, reading, writing, verifying and erasing flash chips.
-* [Cotopaxi](https://github.com/Samsung/cotopaxi) ⭐ 362 | 🐛 1 | 🌐 Python | 📅 2024-05-31 - Set of tools for security testing of Internet of Things devices using specific network IoT protocols.
+* [Cotopaxi](https://github.com/Samsung/cotopaxi) ⭐ 361 | 🐛 1 | 🌐 Python | 📅 2024-05-31 - Set of tools for security testing of Internet of Things devices using specific network IoT protocols.
 * [dumpflash](https://github.com/ohjeongwook/dumpflash) ⭐ 321 | 🐛 21 | 🌐 Python | 📅 2022-03-17 - Low-level NAND Flash dump and parsing utility.
 * [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic) ⭐ 237 | 🐛 8 | 🌐 Python | 📅 2021-04-11 - Decrypt Samsung SSD firmware updates.
 
@@ -98,7 +98,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 * [Ikalogic](https://www.ikalogic.com/pages/logic-analyzer-sp-series-sp209) - Alternative to Saleae logic analyzers :euro:.
 * [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) - Open source multi-tool hardware similar to the BusPirate but with NFC capabilities.
 * [ChipWhisperer](https://newae.com/chipwhisperer/) - Detects Glitch/Side-channel attacks.
-* [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) ⭐ 2,208 | 🐛 81 | 🌐 Python | 📅 2026-09-17 - Tool for exploring and debugging different digital interfaces.
+* [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) ⭐ 2,208 | 🐛 81 | 🌐 Python | 📅 2026-09-18 - Tool for exploring and debugging different digital interfaces.
 * [J-Link](https://www.segger.com/products/debug-probes/j-link/models/model-overview/) - J-Link offers USB powered JTAG debug probes for multiple different CPU cores :euro:.
 
 ### Bluetooth BLE Tools
@@ -256,4 +256,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

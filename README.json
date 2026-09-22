@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T15:28:42Z",
-                "open_issues": 826,
+                "last_commit": "2026-09-22T11:04:25Z",
+                "open_issues": 822,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24843,
+                "stars": 24855,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 94,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14360,
+                "stars": 14363,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -291,7 +291,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2106,
+                "stars": 2105,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -312,7 +312,7 @@
                 "open_issues": 30,
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
-                "stars": 1359,
+                "stars": 1360,
                 "topics": [
                   "binary-analysis",
                   "cwe",
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:55:22.553Z",
+    "last_updated": "2026-09-22T21:11:43.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",

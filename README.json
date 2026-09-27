@@ -21,7 +21,7 @@
                 "open_issues": 97,
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13248,
+                "stars": 13250,
                 "topics": [
                   "bruteforce",
                   "creds",
@@ -56,7 +56,7 @@
                 "open_issues": 73,
                 "owner": "RUB-NDS",
                 "repo": "PRET",
-                "stars": 4311,
+                "stars": 4310,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -122,8 +122,8 @@
                 "id": 169076171,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-25T23:52:05Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-26T23:13:35Z",
+                "open_issues": 18,
                 "owner": "emsec",
                 "repo": "hal",
                 "stars": 830,
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-26T19:39:19Z",
-                "open_issues": 813,
+                "last_commit": "2026-09-27T19:03:37Z",
+                "open_issues": 802,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24879,
+                "stars": 24882,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 96,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14372,
+                "stars": 14374,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -249,7 +249,7 @@
                 "open_issues": 14,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3678,
+                "stars": 3680,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T21:00:22.890Z",
+    "last_updated": "2026-09-27T21:15:19.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",

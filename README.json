@@ -56,7 +56,7 @@
                 "open_issues": 73,
                 "owner": "RUB-NDS",
                 "repo": "PRET",
-                "stars": 4310,
+                "stars": 4311,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -105,7 +105,7 @@
                 "open_issues": 31,
                 "owner": "riverloopsec",
                 "repo": "killerbee",
-                "stars": 851,
+                "stars": 852,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-27T19:03:37Z",
-                "open_issues": 802,
+                "last_commit": "2026-09-28T21:36:59Z",
+                "open_issues": 803,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24882,
+                "stars": 24887,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 96,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14374,
+                "stars": 14378,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -245,7 +245,7 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-24T11:36:49Z",
+                "last_commit": "2026-09-28T08:28:44Z",
                 "open_issues": 14,
                 "owner": "e-m-b-a",
                 "repo": "emba",
@@ -308,7 +308,7 @@
                 "id": 152072866,
                 "language": "Rust",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-08-20T09:29:19Z",
+                "last_commit": "2026-09-28T13:43:29Z",
                 "open_issues": 31,
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
@@ -475,7 +475,7 @@
                 "id": 1474948,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-26T02:58:11Z",
+                "last_commit": "2026-09-28T20:18:11Z",
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T21:15:19.451Z",
+    "last_updated": "2026-09-28T23:11:13.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",
@@ -760,7 +760,7 @@
       "open_issues": 1,
       "owner": "fkie-cad",
       "repo": "awesome-embedded-and-iot-security",
-      "stars": 2453,
+      "stars": 2454,
       "topics": [
         "awesome",
         "awesome-list",

@@ -21,7 +21,7 @@
                 "open_issues": 97,
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13250,
+                "stars": 13249,
                 "topics": [
                   "bruteforce",
                   "creds",
@@ -122,8 +122,8 @@
                 "id": 169076171,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-26T23:13:35Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-29T20:05:35Z",
+                "open_issues": 19,
                 "owner": "emsec",
                 "repo": "hal",
                 "stars": 830,
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T21:36:59Z",
-                "open_issues": 803,
+                "last_commit": "2026-09-29T18:31:04Z",
+                "open_issues": 791,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24887,
+                "stars": 24897,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -225,10 +225,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-11T15:27:34Z",
-                "open_issues": 96,
+                "open_issues": 97,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14378,
+                "stars": 14381,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -246,7 +246,7 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-28T08:28:44Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "e-m-b-a",
                 "repo": "emba",
                 "stars": 3680,
@@ -312,7 +312,7 @@
                 "open_issues": 31,
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
-                "stars": 1360,
+                "stars": 1362,
                 "topics": [
                   "binary-analysis",
                   "cwe",
@@ -415,8 +415,8 @@
                 "id": 170100702,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T13:12:23Z",
-                "open_issues": 44,
+                "last_commit": "2026-09-29T08:53:52Z",
+                "open_issues": 45,
                 "owner": "fkie-cad",
                 "repo": "fact_extractor",
                 "stars": 91,
@@ -475,7 +475,7 @@
                 "id": 1474948,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-28T20:18:11Z",
+                "last_commit": "2026-09-29T20:43:22Z",
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
@@ -547,7 +547,7 @@
                 "open_issues": 8,
                 "owner": "chrivers",
                 "repo": "samsung-firmware-magic",
-                "stars": 237,
+                "stars": 238,
                 "topics": [
                   "decryptor",
                   "deobfuscation",
@@ -585,7 +585,7 @@
             "open_issues": 5,
             "owner": "yadox666",
             "repo": "The-Hackers-Hardware-Toolkit",
-            "stars": 2177,
+            "stars": 2178,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:11.900Z"
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:11:13.589Z",
+    "last_updated": "2026-09-29T22:09:34.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",
@@ -760,7 +760,7 @@
       "open_issues": 1,
       "owner": "fkie-cad",
       "repo": "awesome-embedded-and-iot-security",
-      "stars": 2454,
+      "stars": 2456,
       "topics": [
         "awesome",
         "awesome-list",

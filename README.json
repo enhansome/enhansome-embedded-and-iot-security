@@ -21,7 +21,7 @@
                 "open_issues": 98,
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13256,
+                "stars": 13258,
                 "topics": [
                   "bruteforce",
                   "creds",
@@ -126,7 +126,7 @@
                 "open_issues": 19,
                 "owner": "emsec",
                 "repo": "hal",
-                "stars": 831,
+                "stars": 830,
                 "topics": [
                   "embedded-security",
                   "fpga",
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T21:39:39Z",
-                "open_issues": 797,
+                "last_commit": "2026-10-01T20:20:59Z",
+                "open_issues": 800,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24905,
+                "stars": 24908,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 98,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14387,
+                "stars": 14390,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -246,10 +246,10 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-28T08:28:44Z",
-                "open_issues": 17,
+                "open_issues": 19,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3682,
+                "stars": 3686,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -291,7 +291,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2108,
+                "stars": 2110,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -312,7 +312,7 @@
                 "open_issues": 31,
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
-                "stars": 1362,
+                "stars": 1361,
                 "topics": [
                   "binary-analysis",
                   "cwe",
@@ -475,7 +475,7 @@
                 "id": 1474948,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-30T21:13:23Z",
+                "last_commit": "2026-10-01T13:33:23Z",
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T22:09:16.983Z",
+    "last_updated": "2026-10-01T22:36:25.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",
@@ -760,7 +760,7 @@
       "open_issues": 1,
       "owner": "fkie-cad",
       "repo": "awesome-embedded-and-iot-security",
-      "stars": 2457,
+      "stars": 2458,
       "topics": [
         "awesome",
         "awesome-list",

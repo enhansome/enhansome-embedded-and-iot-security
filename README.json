@@ -193,10 +193,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T17:13:48Z",
-                "open_issues": 795,
+                "open_issues": 798,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24911,
+                "stars": 24912,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 98,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14391,
+                "stars": 14390,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -249,7 +249,7 @@
                 "open_issues": 18,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3688,
+                "stars": 3689,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -291,7 +291,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2110,
+                "stars": 2111,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -572,7 +572,7 @@
         {
           "node_type": "item",
           "title": "2019, Yago Hansen: The Hacker's Hardware Toolkit: The best collection of hardware gadgets for Red Team hackers, Pentesters and security researchers",
-          "description": null,
+          "description": "yadox666/The-Hackers-Hardware-Toolkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -593,7 +593,7 @@
         {
           "node_type": "item",
           "title": "2018, Mark Carney: Pentesting Hardware - A Practical Handbook (DRAFT)",
-          "description": null,
+          "description": "unprovable/PentestHardware",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:05:34.929Z",
+    "last_updated": "2026-10-03T04:41:30.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",
@@ -760,7 +760,7 @@
       "open_issues": 1,
       "owner": "fkie-cad",
       "repo": "awesome-embedded-and-iot-security",
-      "stars": 2459,
+      "stars": 2460,
       "topics": [
         "awesome",
         "awesome-list",

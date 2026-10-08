@@ -21,7 +21,7 @@
                 "open_issues": 97,
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13256,
+                "stars": 13254,
                 "topics": [
                   "bruteforce",
                   "creds",
@@ -56,7 +56,7 @@
                 "open_issues": 73,
                 "owner": "RUB-NDS",
                 "repo": "PRET",
-                "stars": 4311,
+                "stars": 4310,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T22:44:53Z",
-                "open_issues": 788,
+                "last_commit": "2026-10-08T17:33:06Z",
+                "open_issues": 789,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24945,
+                "stars": 24959,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 99,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14394,
+                "stars": 14398,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -249,7 +249,7 @@
                 "open_issues": 19,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3692,
+                "stars": 3694,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -479,7 +479,7 @@
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
-                "stars": 1177,
+                "stars": 1178,
                 "topics": [
                   "firmware-tools",
                   "firmware-update",
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T22:59:57.767Z",
+    "last_updated": "2026-10-08T23:15:23.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",

@@ -21,7 +21,7 @@
                 "open_issues": 97,
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13252,
+                "stars": 13253,
                 "topics": [
                   "bruteforce",
                   "creds",
@@ -126,7 +126,7 @@
                 "open_issues": 19,
                 "owner": "emsec",
                 "repo": "hal",
-                "stars": 834,
+                "stars": 835,
                 "topics": [
                   "embedded-security",
                   "fpga",
@@ -156,7 +156,7 @@
                 "open_issues": 3,
                 "owner": "cruise-automation",
                 "repo": "fwanalyzer",
-                "stars": 515,
+                "stars": 514,
                 "topics": [
                   "android",
                   "embedded-linux",
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T14:54:58Z",
-                "open_issues": 790,
+                "last_commit": "2026-10-10T06:16:03Z",
+                "open_issues": 788,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24970,
+                "stars": 24986,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 99,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14414,
+                "stars": 14431,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -475,11 +475,11 @@
                 "id": 1474948,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-09T17:33:22Z",
+                "last_commit": "2026-10-10T01:43:21Z",
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
-                "stars": 1180,
+                "stars": 1182,
                 "topics": [
                   "firmware-tools",
                   "firmware-update",
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T22:32:51.343Z",
+    "last_updated": "2026-10-10T21:31:41.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",

@@ -56,7 +56,7 @@
                 "open_issues": 73,
                 "owner": "RUB-NDS",
                 "repo": "PRET",
-                "stars": 4309,
+                "stars": 4310,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T06:16:03Z",
-                "open_issues": 788,
+                "last_commit": "2026-10-11T17:36:28Z",
+                "open_issues": 790,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24986,
+                "stars": 24995,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 99,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14431,
+                "stars": 14438,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -249,7 +249,7 @@
                 "open_issues": 19,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3696,
+                "stars": 3697,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -312,7 +312,7 @@
                 "open_issues": 32,
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
-                "stars": 1360,
+                "stars": 1361,
                 "topics": [
                   "binary-analysis",
                   "cwe",
@@ -447,7 +447,7 @@
                 "open_issues": 14,
                 "owner": "cyphunk",
                 "repo": "JTAGenum",
-                "stars": 801,
+                "stars": 802,
                 "topics": [
                   "arduino",
                   "jtag",
@@ -475,7 +475,7 @@
                 "id": 1474948,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-10T01:43:21Z",
+                "last_commit": "2026-10-11T18:33:22Z",
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T21:31:41.300Z",
+    "last_updated": "2026-10-11T21:46:19.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",

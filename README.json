@@ -53,10 +53,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2024-08-02T01:18:28Z",
-                "open_issues": 73,
+                "open_issues": 72,
                 "owner": "RUB-NDS",
                 "repo": "PRET",
-                "stars": 4314,
+                "stars": 4316,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -123,7 +123,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-13T12:27:27Z",
-                "open_issues": 20,
+                "open_issues": 22,
                 "owner": "emsec",
                 "repo": "hal",
                 "stars": 837,
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T20:44:11Z",
-                "open_issues": 790,
+                "last_commit": "2026-10-17T19:42:43Z",
+                "open_issues": 786,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25059,
+                "stars": 25068,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 100,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14496,
+                "stars": 14501,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -246,7 +246,7 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-12T10:34:33Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "e-m-b-a",
                 "repo": "emba",
                 "stars": 3715,
@@ -312,7 +312,7 @@
                 "open_issues": 32,
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
-                "stars": 1362,
+                "stars": 1361,
                 "topics": [
                   "binary-analysis",
                   "cwe",
@@ -475,7 +475,7 @@
                 "id": 1474948,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-15T12:17:24Z",
+                "last_commit": "2026-10-16T20:57:24Z",
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
@@ -505,7 +505,7 @@
                 "open_issues": 1,
                 "owner": "Samsung",
                 "repo": "cotopaxi",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -606,7 +606,7 @@
             "open_issues": 2,
             "owner": "unprovable",
             "repo": "PentestHardware",
-            "stars": 507,
+            "stars": 508,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:11.900Z"
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T20:54:42.677Z",
+    "last_updated": "2026-10-17T20:28:12.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",
@@ -760,7 +760,7 @@
       "open_issues": 1,
       "owner": "fkie-cad",
       "repo": "awesome-embedded-and-iot-security",
-      "stars": 2473,
+      "stars": 2474,
       "topics": [
         "awesome",
         "awesome-list",

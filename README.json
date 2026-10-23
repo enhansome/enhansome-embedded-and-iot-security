@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13272,
+                "stars": 13270,
                 "topics": [
                   "bruteforce",
                   "creds",
@@ -122,7 +122,7 @@
                 "id": 169076171,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-20T22:02:14Z",
+                "last_commit": "2026-10-23T21:00:51Z",
                 "open_issues": 31,
                 "owner": "emsec",
                 "repo": "hal",
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T18:35:43Z",
-                "open_issues": 787,
+                "last_commit": "2026-10-23T19:09:38Z",
+                "open_issues": 798,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25129,
+                "stars": 25135,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 102,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14538,
+                "stars": 14542,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -245,11 +245,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-21T11:08:10Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-23T14:48:59Z",
+                "open_issues": 15,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3719,
+                "stars": 3720,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -447,7 +447,7 @@
                 "open_issues": 14,
                 "owner": "cyphunk",
                 "repo": "JTAGenum",
-                "stars": 804,
+                "stars": 805,
                 "topics": [
                   "arduino",
                   "jtag",
@@ -479,7 +479,7 @@
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
-                "stars": 1186,
+                "stars": 1187,
                 "topics": [
                   "firmware-tools",
                   "firmware-update",
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "rdomanski",
             "repo": "hardware_hacking",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:11.900Z"
@@ -675,7 +675,7 @@
             "open_issues": 2,
             "owner": "TrustworthyComputing",
             "repo": "csaw_esc_2019",
-            "stars": 38,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:11.900Z"
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T21:27:15.770Z",
+    "last_updated": "2026-10-23T21:18:37.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",
@@ -760,7 +760,7 @@
       "open_issues": 1,
       "owner": "fkie-cad",
       "repo": "awesome-embedded-and-iot-security",
-      "stars": 2479,
+      "stars": 2488,
       "topics": [
         "awesome",
         "awesome-list",

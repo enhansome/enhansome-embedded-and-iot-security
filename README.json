@@ -122,7 +122,7 @@
                 "id": 169076171,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-03T14:38:00Z",
+                "last_commit": "2026-11-04T18:04:07Z",
                 "open_issues": 26,
                 "owner": "emsec",
                 "repo": "hal",
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T23:10:42Z",
-                "open_issues": 790,
+                "last_commit": "2026-11-04T23:01:30Z",
+                "open_issues": 784,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25298,
+                "stars": 25315,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 103,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14599,
+                "stars": 14610,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -249,7 +249,7 @@
                 "open_issues": 15,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3749,
+                "stars": 3751,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -291,7 +291,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2122,
+                "stars": 2123,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T23:11:37.921Z",
+    "last_updated": "2026-11-04T23:32:22.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",
@@ -757,10 +757,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2023-10-17T12:23:20Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "fkie-cad",
       "repo": "awesome-embedded-and-iot-security",
-      "stars": 2511,
+      "stars": 2513,
       "topics": [
         "awesome",
         "awesome-list",

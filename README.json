@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T17:45:40Z",
-                "open_issues": 791,
+                "last_commit": "2026-11-07T20:51:02Z",
+                "open_issues": 792,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25335,
+                "stars": 25353,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 103,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14626,
+                "stars": 14629,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -249,7 +249,7 @@
                 "open_issues": 16,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3751,
+                "stars": 3750,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -475,7 +475,7 @@
                 "id": 1474948,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-05T22:36:07Z",
+                "last_commit": "2026-11-07T15:24:12Z",
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
@@ -585,7 +585,7 @@
             "open_issues": 5,
             "owner": "yadox666",
             "repo": "The-Hackers-Hardware-Toolkit",
-            "stars": 2183,
+            "stars": 2182,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:11.900Z"
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:58:46.247Z",
+    "last_updated": "2026-11-07T21:42:23.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",
@@ -760,7 +760,7 @@
       "open_issues": 2,
       "owner": "fkie-cad",
       "repo": "awesome-embedded-and-iot-security",
-      "stars": 2512,
+      "stars": 2513,
       "topics": [
         "awesome",
         "awesome-list",

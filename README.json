@@ -77,7 +77,7 @@
                 "open_issues": 5,
                 "owner": "Telefonica",
                 "repo": "HomePWN",
-                "stars": 935,
+                "stars": 936,
                 "topics": [
                   "archived",
                   "ble",
@@ -122,11 +122,11 @@
                 "id": 169076171,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-10T16:53:24Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-11T15:39:12Z",
+                "open_issues": 26,
                 "owner": "emsec",
                 "repo": "hal",
-                "stars": 844,
+                "stars": 846,
                 "topics": [
                   "embedded-security",
                   "fpga",
@@ -156,7 +156,7 @@
                 "open_issues": 3,
                 "owner": "cruise-automation",
                 "repo": "fwanalyzer",
-                "stars": 516,
+                "stars": 517,
                 "topics": [
                   "android",
                   "embedded-linux",
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T22:59:27Z",
-                "open_issues": 789,
+                "last_commit": "2026-11-11T23:48:27Z",
+                "open_issues": 791,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25388,
+                "stars": 25398,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 105,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14658,
+                "stars": 14665,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:08:19.451Z",
+    "last_updated": "2026-11-12T00:29:17.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",
@@ -760,7 +760,7 @@
       "open_issues": 3,
       "owner": "fkie-cad",
       "repo": "awesome-embedded-and-iot-security",
-      "stars": 2522,
+      "stars": 2524,
       "topics": [
         "awesome",
         "awesome-list",

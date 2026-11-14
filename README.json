@@ -21,7 +21,7 @@
                 "open_issues": 97,
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13300,
+                "stars": 13307,
                 "topics": [
                   "bruteforce",
                   "creds",
@@ -105,7 +105,7 @@
                 "open_issues": 34,
                 "owner": "riverloopsec",
                 "repo": "killerbee",
-                "stars": 852,
+                "stars": 853,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -122,11 +122,11 @@
                 "id": 169076171,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-13T14:53:00Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-14T18:26:22Z",
+                "open_issues": 26,
                 "owner": "emsec",
                 "repo": "hal",
-                "stars": 847,
+                "stars": 848,
                 "topics": [
                   "embedded-security",
                   "fpga",
@@ -156,7 +156,7 @@
                 "open_issues": 3,
                 "owner": "cruise-automation",
                 "repo": "fwanalyzer",
-                "stars": 517,
+                "stars": 518,
                 "topics": [
                   "android",
                   "embedded-linux",
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T11:27:55Z",
+                "last_commit": "2026-11-14T12:13:02Z",
                 "open_issues": 800,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25425,
+                "stars": 25432,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 104,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14676,
+                "stars": 14685,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -249,7 +249,7 @@
                 "open_issues": 16,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3762,
+                "stars": 3764,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -312,7 +312,7 @@
                 "open_issues": 32,
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
-                "stars": 1363,
+                "stars": 1365,
                 "topics": [
                   "binary-analysis",
                   "cwe",
@@ -505,7 +505,7 @@
                 "open_issues": 1,
                 "owner": "Samsung",
                 "repo": "cotopaxi",
-                "stars": 364,
+                "stars": 365,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T23:27:27.681Z",
+    "last_updated": "2026-11-14T22:15:12.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",
@@ -760,7 +760,7 @@
       "open_issues": 3,
       "owner": "fkie-cad",
       "repo": "awesome-embedded-and-iot-security",
-      "stars": 2525,
+      "stars": 2528,
       "topics": [
         "awesome",
         "awesome-list",

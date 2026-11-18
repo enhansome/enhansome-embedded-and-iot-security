@@ -56,7 +56,7 @@
                 "open_issues": 72,
                 "owner": "RUB-NDS",
                 "repo": "PRET",
-                "stars": 4315,
+                "stars": 4316,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -122,11 +122,11 @@
                 "id": 169076171,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-15T11:34:35Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-17T18:59:39Z",
+                "open_issues": 30,
                 "owner": "emsec",
                 "repo": "hal",
-                "stars": 849,
+                "stars": 850,
                 "topics": [
                   "embedded-security",
                   "fpga",
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T00:22:58Z",
-                "open_issues": 812,
+                "last_commit": "2026-11-17T22:57:30Z",
+                "open_issues": 789,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25445,
+                "stars": 25451,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 104,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14709,
+                "stars": 14715,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -249,7 +249,7 @@
                 "open_issues": 16,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3775,
+                "stars": 3777,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -344,7 +344,7 @@
                 "open_issues": 9,
                 "owner": "ChrisTheCoolHut",
                 "repo": "Firmware_Slap",
-                "stars": 477,
+                "stars": 478,
                 "topics": [
                   "angr",
                   "exploit",
@@ -416,7 +416,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-02T10:17:13Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "fkie-cad",
                 "repo": "fact_extractor",
                 "stars": 92,
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T01:49:44.525Z",
+    "last_updated": "2026-11-18T00:52:46.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",
@@ -760,7 +760,7 @@
       "open_issues": 4,
       "owner": "fkie-cad",
       "repo": "awesome-embedded-and-iot-security",
-      "stars": 2531,
+      "stars": 2535,
       "topics": [
         "awesome",
         "awesome-list",

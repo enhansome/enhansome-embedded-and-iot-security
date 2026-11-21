@@ -21,7 +21,7 @@
                 "open_issues": 98,
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13323,
+                "stars": 13332,
                 "topics": [
                   "bruteforce",
                   "creds",
@@ -56,7 +56,7 @@
                 "open_issues": 72,
                 "owner": "RUB-NDS",
                 "repo": "PRET",
-                "stars": 4315,
+                "stars": 4316,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -77,7 +77,7 @@
                 "open_issues": 5,
                 "owner": "Telefonica",
                 "repo": "HomePWN",
-                "stars": 935,
+                "stars": 936,
                 "topics": [
                   "archived",
                   "ble",
@@ -85,6 +85,36 @@
                   "iot",
                   "nfc",
                   "python"
+                ]
+              },
+              "first_seen": "2026-08-29T01:43:11.900Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HAL – The Hardware Analyzer",
+              "description": "A comprehensive reverse engineering and manipulation framework for gate-level netlists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "HAL – The Hardware Analyzer",
+                "homepage": null,
+                "id": 169076171,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-11-21T17:33:40Z",
+                "open_issues": 30,
+                "owner": "emsec",
+                "repo": "hal",
+                "stars": 851,
+                "topics": [
+                  "embedded-security",
+                  "fpga",
+                  "hal",
+                  "hardware",
+                  "integrated-circuits",
+                  "netlist",
+                  "reverse-engineering",
+                  "security"
                 ]
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -107,36 +137,6 @@
                 "repo": "killerbee",
                 "stars": 851,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T01:43:11.900Z"
-            },
-            {
-              "node_type": "item",
-              "title": "HAL – The Hardware Analyzer",
-              "description": "A comprehensive reverse engineering and manipulation framework for gate-level netlists.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "HAL – The Hardware Analyzer",
-                "homepage": null,
-                "id": 169076171,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2026-11-20T23:51:45Z",
-                "open_issues": 31,
-                "owner": "emsec",
-                "repo": "hal",
-                "stars": 849,
-                "topics": [
-                  "embedded-security",
-                  "fpga",
-                  "hal",
-                  "hardware",
-                  "integrated-circuits",
-                  "netlist",
-                  "reverse-engineering",
-                  "security"
-                ]
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
             },
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T18:25:13Z",
+                "last_commit": "2026-11-21T18:54:26Z",
                 "open_issues": 822,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25475,
+                "stars": 25478,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -228,7 +228,7 @@
                 "open_issues": 103,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14728,
+                "stars": 14730,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -447,7 +447,7 @@
                 "open_issues": 14,
                 "owner": "cyphunk",
                 "repo": "JTAGenum",
-                "stars": 808,
+                "stars": 807,
                 "topics": [
                   "arduino",
                   "jtag",
@@ -475,11 +475,11 @@
                 "id": 1474948,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-20T13:44:11Z",
+                "last_commit": "2026-11-21T22:18:33Z",
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
-                "stars": 1194,
+                "stars": 1196,
                 "topics": [
                   "firmware-tools",
                   "firmware-update",
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:55:00.089Z",
+    "last_updated": "2026-11-21T23:01:19.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",
@@ -760,7 +760,7 @@
       "open_issues": 4,
       "owner": "fkie-cad",
       "repo": "awesome-embedded-and-iot-security",
-      "stars": 2537,
+      "stars": 2538,
       "topics": [
         "awesome",
         "awesome-list",

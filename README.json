@@ -21,7 +21,7 @@
                 "open_issues": 98,
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13340,
+                "stars": 13343,
                 "topics": [
                   "bruteforce",
                   "creds",
@@ -56,7 +56,7 @@
                 "open_issues": 72,
                 "owner": "RUB-NDS",
                 "repo": "PRET",
-                "stars": 4318,
+                "stars": 4319,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -101,11 +101,11 @@
                 "id": 169076171,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-24T16:17:39Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-25T13:31:31Z",
+                "open_issues": 27,
                 "owner": "emsec",
                 "repo": "hal",
-                "stars": 851,
+                "stars": 853,
                 "topics": [
                   "embedded-security",
                   "fpga",
@@ -135,7 +135,7 @@
                 "open_issues": 34,
                 "owner": "riverloopsec",
                 "repo": "killerbee",
-                "stars": 851,
+                "stars": 853,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -192,11 +192,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T01:28:04Z",
-                "open_issues": 813,
+                "last_commit": "2026-11-26T01:43:46Z",
+                "open_issues": 807,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25503,
+                "stars": 25511,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -225,10 +225,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-11T15:27:34Z",
-                "open_issues": 102,
+                "open_issues": 101,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14738,
+                "stars": 14743,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -249,7 +249,7 @@
                 "open_issues": 16,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3782,
+                "stars": 3783,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -291,7 +291,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2130,
+                "stars": 2131,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:11.900Z"
@@ -415,8 +415,8 @@
                 "id": 170100702,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T16:00:30Z",
-                "open_issues": 48,
+                "last_commit": "2026-11-25T08:12:24Z",
+                "open_issues": 47,
                 "owner": "fkie-cad",
                 "repo": "fact_extractor",
                 "stars": 92,
@@ -606,7 +606,7 @@
             "open_issues": 2,
             "owner": "unprovable",
             "repo": "PentestHardware",
-            "stars": 509,
+            "stars": 510,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:11.900Z"
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T02:13:02.550Z",
+    "last_updated": "2026-11-26T01:44:28.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded and IoT security resources.",
@@ -760,7 +760,7 @@
       "open_issues": 4,
       "owner": "fkie-cad",
       "repo": "awesome-embedded-and-iot-security",
-      "stars": 2539,
+      "stars": 2542,
       "topics": [
         "awesome",
         "awesome-list",

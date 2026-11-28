@@ -47,10 +47,10 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### Analysis Frameworks
 
-* [Routersploit](https://github.com/threat9/routersploit) ⭐ 13,345 | 🐛 98 | 🌐 Python | 📅 2026-05-05 - Framework dedicated to exploit embedded devices.
+* [Routersploit](https://github.com/threat9/routersploit) ⭐ 13,351 | 🐛 98 | 🌐 Python | 📅 2026-05-05 - Framework dedicated to exploit embedded devices.
 * [PRET](https://github.com/RUB-NDS/PRET) ⭐ 4,319 | 🐛 72 | 🌐 Python | 📅 2024-08-02 - Printer Exploitation Toolkit.
 * [HomePWN](https://github.com/ElevenPaths/HomePWN) ⚠️ Archived - Swiss Army Knife for Pentesting of IoT Devices.
-* [HAL – The Hardware Analyzer](https://github.com/emsec/hal) ⭐ 853 | 🐛 27 | 🌐 C++ | 📅 2026-11-26 - A comprehensive reverse engineering and manipulation framework for gate-level netlists.
+* [HAL – The Hardware Analyzer](https://github.com/emsec/hal) ⭐ 853 | 🐛 27 | 🌐 C++ | 📅 2026-11-27 - A comprehensive reverse engineering and manipulation framework for gate-level netlists.
 * [Killerbee](https://github.com/riverloopsec/killerbee) ⭐ 853 | 🐛 34 | 🌐 C | 📅 2023-09-12 - Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.
 * [FwAnalyzer](https://github.com/cruise-automation/fwanalyzer) ⭐ 517 | 🐛 3 | 🌐 Go | 📅 2023-10-08 - Analyze security of firmware based on customized rules. Intended as additional step in DevSecOps, similar to CI.
 * [EXPLIoT](https://gitlab.com/expliot_framework/expliot) - Pentest framework like Metasploit but specialized for IoT.
@@ -60,11 +60,11 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### Analysis Tools
 
-* [Radare2](https://github.com/radare/radare2) ⭐ 25,517 | 🐛 800 | 🌐 C | 📅 2026-11-27 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
-* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,751 | 🐛 102 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,783 | 🐛 16 | 🌐 Shell | 📅 2026-11-23 - Analyze Linux-based firmware of embedded devices.
+* [Radare2](https://github.com/radare/radare2) ⭐ 25,524 | 🐛 800 | 🌐 C | 📅 2026-11-27 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
+* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,755 | 🐛 103 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,784 | 🐛 20 | 🌐 Shell | 📅 2026-11-23 - Analyze Linux-based firmware of embedded devices.
 * [Firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,131 | 🐛 107 | 🌐 Shell | 📅 2024-07-21 - Tries to emulate and pentest a firmware.
-* [cwe\_checker](https://github.com/fkie-cad/cwe_checker) ⭐ 1,364 | 🐛 33 | 🌐 Rust | 📅 2026-09-28 - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
+* [cwe\_checker](https://github.com/fkie-cad/cwe_checker) ⭐ 1,365 | 🐛 33 | 🌐 Rust | 📅 2026-09-28 - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
 * [Firmware Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) ⭐ 477 | 🐛 9 | 🌐 Python | 📅 2020-09-17 - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
 * [Trommel](https://github.com/CERTCC/trommel) ⚠️ Archived - Searches extracted firmware images for interesting files and information.
 * [Firmwalker](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
@@ -83,7 +83,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### Misc Tools
 
-* [flashrom](https://github.com/flashrom/flashrom) ⭐ 1,199 | 🐛 80 | 🌐 C | 📅 2026-11-23 - Tool for detecting, reading, writing, verifying and erasing flash chips.
+* [flashrom](https://github.com/flashrom/flashrom) ⭐ 1,202 | 🐛 80 | 🌐 C | 📅 2026-11-23 - Tool for detecting, reading, writing, verifying and erasing flash chips.
 * [Cotopaxi](https://github.com/Samsung/cotopaxi) ⭐ 364 | 🐛 1 | 🌐 Python | 📅 2024-05-31 - Set of tools for security testing of Internet of Things devices using specific network IoT protocols.
 * [dumpflash](https://github.com/ohjeongwook/dumpflash) ⭐ 321 | 🐛 21 | 🌐 Python | 📅 2022-03-17 - Low-level NAND Flash dump and parsing utility.
 * [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic) ⭐ 239 | 🐛 8 | 🌐 Python | 📅 2021-04-11 - Decrypt Samsung SSD firmware updates.
@@ -98,7 +98,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 * [Ikalogic](https://www.ikalogic.com/pages/logic-analyzer-sp-series-sp209) - Alternative to Saleae logic analyzers :euro:.
 * [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) - Open source multi-tool hardware similar to the BusPirate but with NFC capabilities.
 * [ChipWhisperer](https://newae.com/chipwhisperer/) - Detects Glitch/Side-channel attacks.
-* [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) ⭐ 2,245 | 🐛 81 | 🌐 Python | 📅 2026-11-25 - Tool for exploring and debugging different digital interfaces.
+* [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) ⭐ 2,246 | 🐛 82 | 🌐 Python | 📅 2026-11-27 - Tool for exploring and debugging different digital interfaces.
 * [J-Link](https://www.segger.com/products/debug-probes/j-link/models/model-overview/) - J-Link offers USB powered JTAG debug probes for multiple different CPU cores :euro:.
 
 ### Bluetooth BLE Tools
@@ -191,7 +191,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 * [IoTGoat](https://github.com/scriptingxss/IoTGoat) ⭐ 185 | 🐛 1 | 🌐 C | 📅 2020-03-29 - IoTGoat is a deliberately insecure firmware based on OpenWrt.
 * [Hardware Hacking 101](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2019-03-28 - Workshop @ BSides Munich 2019.
-* [CSAW Embedded Security Challenge 2019](https://github.com/TrustworthyComputing/csaw_esc_2019) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2019-11-24 - CSAW 2019 Embedded Security Challenge (ESC).
+* [CSAW Embedded Security Challenge 2019](https://github.com/TrustworthyComputing/csaw_esc_2019) ⭐ 40 | 🐛 2 | 🌐 Python | 📅 2019-11-24 - CSAW 2019 Embedded Security Challenge (ESC).
 * [Rhme-2016](https://github.com/Riscure/Rhme-2016) ⭐ 4 | 🐛 0 | 📅 2024-08-28 - Riscure Hack me 2 is a low level hardware CTF challenge.
 * [Rhme-2015](https://github.com/Riscure/RHme-2015) ⭐ 0 | 🐛 0 | 📅 2024-08-25 - First riscure Hack me hardware CTF challenge.
 * [Rhme-2017/2018](https://github.com/Riscure/Rhme-2017) ⭐ 0 | 🐛 0 | 📅 2024-08-28 - Riscure Hack Me 3 embedded hardware CTF 2017-2018.
@@ -256,4 +256,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
